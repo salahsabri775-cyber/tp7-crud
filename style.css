@@ -1,0 +1,19 @@
+body{font-family:Arial,Helvetica,sans-serif;max-width:900px;margin:30px auto;padding:0 15px;color:#222}
+nav{background:#1f3a5f;padding:10px 15px;border-radius:6px;margin-bottom:25px}
+nav a{color:#fff;text-decoration:none;margin-right:18px;font-weight:bold}
+nav a:hover{text-decoration:underline}
+h1{color:#1f3a5f}
+table{border-collapse:collapse;width:100%;margin-top:15px}
+th,td{border:1px solid #ccc;padding:8px;text-align:left}
+th{background:#e8eef6}
+tr:nth-child(even){background:#f8f9fb}
+.btn{display:inline-block;background:#2e7d32;color:#fff;padding:7px 14px;border-radius:4px;text-decoration:none;border:0;cursor:pointer;font-size:14px}
+.btn-edit{background:#1565c0;padding:4px 10px}
+.btn-del{background:#c62828;padding:4px 10px}
+.btn-gray{background:#666}
+form label{display:block;margin-top:14px;font-weight:bold}
+form input,form select,form textarea{width:100%;padding:8px;margin-top:5px;box-sizing:border-box}
+.erreur{background:#fdecea;color:#b71c1c;padding:10px;border-radius:4px;margin:15px 0}
+.cards{display:flex;gap:20px;flex-wrap:wrap;margin-top:30px}
+.card{flex:1;min-width:230px;border:1px solid #ccc;border-radius:8px;padding:20px;text-align:center}
+.card h2{margin-top:0;color:#1f3a5f}
